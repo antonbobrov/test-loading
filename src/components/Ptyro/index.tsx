@@ -1,5 +1,3 @@
-import { FC, useState } from 'react';
-
 import Sequence from './SEQUENCE.json';
 
 export const Ptyro = () => {
